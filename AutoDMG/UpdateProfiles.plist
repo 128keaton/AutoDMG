@@ -149,7 +149,7 @@
 		<array/>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2019-03-27T12:17:18Z</date>
+	<date>2019-04-11T23:37:43Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
@@ -199,13 +199,13 @@
 		<key>SafariHighSierra</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 12.0.3 for High Sierra</string>
+			<string>Safari 12.1 for High Sierra</string>
 			<key>sha1</key>
-			<string>a98689e2d56ef363de54c5c2ed48bfa8edb513c9</string>
+			<string>f9c0e659f96c05b20ef1b5e51f6020dd1dbd00d6</string>
 			<key>size</key>
-			<integer>80940390</integer>
+			<integer>81726817</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/55/25/041-25738/iyrwf769xfe9jzsz3p2c0iv45rtw47t0bq/Safari12.0.3HighSierraAuto.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/07/08/041-31481/pxxbu55rq2367hecv8s0odj33wcaacir8e/Safari12.1HighSierraAuto.pkg</string>
 		</dict>
 		<key>SafariSierra</key>
 		<dict>
